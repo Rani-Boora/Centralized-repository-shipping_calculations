@@ -1,4 +1,5 @@
- # Here is a new update by Rani B
+ # Here is a new update by Rani Boora
+ # Here is another update by Rani 
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
